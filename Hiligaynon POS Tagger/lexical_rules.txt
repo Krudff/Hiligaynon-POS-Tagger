@@ -1,0 +1,83 @@
+VERB ginaka _ _ VERB
+NOUN ginaka _ _ VERB
+ADJ _ _ a VERB
+VERB _ _ an NOUN ADJ
+VERB pa _ _ VERB
+ADJ _ _ on VERB
+NOUN _ _ an VERB NOUN
+NOUN _ _ on VERB
+ADJ _ _ an NOUN
+ADV gi _ _ VERB
+VERB _ _ an NOUN
+VERB _ _ on ADV
+NOUN _ _ ng NOUN
+ADV _ _ ng ADJ
+ADJ _ _ ng ADJ
+NOUN _ _ do ADJ
+VERB gi _ _ VERB
+NOUN gi _ _ VERB
+NOUN gi _ an VERB
+NOUN ma _ _ ADJ
+VERB ma _ _ ADJ
+NOUN na _ _ VERB
+ADJ na _ _ VERB
+NOUN na _ an ADJ
+NOUN ka _ _ NOUN
+NOUN _ _ non ADJ
+NOUN _ _ hon VERB
+PRON _ _ hon VERB
+NOUN _ _ n-on ADJ
+ADJ maX2 _ _ ADJ
+ADJ _ _ SPECIAL NOUN
+ADJ SPECIAL _ _ NOUN
+ADJ nag _ _ VERB
+NOUN nag _ _ VERB
+ADJ pag _ _ VERB
+VERB pag _ _ ADJ
+VERB pala _ _ ADJ
+NOUN maha _ _ ADJ
+VERB gina _ _ VERB
+ADJ gina _ an VERB
+VERB gin _ _ VERB
+PRON _ _ ng DET
+VERB maha _ _ ADJ
+VERB mag _ _ VERB
+VERB mak _ _ VERB
+NOUN mag _ _ VERB
+NOUN mag- _ _ VERB
+VERB nag _ _ VERB
+NOUN pag _ a VERB
+VERB pagX2 _ _ NOUN
+VERB maka _ _ VERB
+VERB nagX2V2 _ _ VERB
+NOUN SPECIAL _ _ ADJ NOUN
+NOUN makaX2V2 _ _ ADJ
+VERB ma in _ ADJ
+NOUN maka _ _ ADJ
+NOUN naga _ _ VERB
+ADJ kina _ _ NOUN
+VERB nagaka _ _ VERB
+VERB nagpa _ _ VERB
+NOUN pang _ _ NOUN
+NOUN maki _ _ VERB
+VERB maki _ _ VERB
+ADJ mama _ _ VERB
+VERB inog _ _ NOUN
+VERB maga _ _ NOUN
+NOUN mama _ _ VERB
+VERB naga _ _ VERB
+VERB manug _ _ NOUN ADJ
+NOUN manug _ _ NOUN ADJ
+NOUN mapa _ _ ADJ VERB
+VERB mapa _ _ ADJ VERB
+VERB masa _ _ ADJ
+NOUN ginaka _ _ VERB
+VERB naka _ _ VERB
+VERB _ _ asyon NOUN
+VERB pagka _ _ NOUN
+ADJ panga _ _ NOUN
+NOUN pagpa _ _ VERB
+NOUN nagaX2 _ _ VERB
+ANY nagapa _ _ ADJ
+ANY namon _ _ VERB
+VERB pangX2 _ an VERB

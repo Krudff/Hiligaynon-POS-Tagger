@@ -1,0 +1,4 @@
+('Nagpasugot', 'VERB')  ('sia', 'PRON')  ('nga', 'DET')  ('maglukso', 'VERB')  ('sa', 'DET')  ('parakayda', 'NOUN')  ('para', 'ADP')  ('sa', 'DET')  ('buhat', 'VERB')  ('sa', 'DET')  ('kaluoy', 'NOUN')  ('.', '.')
+('Ginakahidlawan', 'VERB')  ('sia', 'PRON')  ('sang', 'DET')  ('iya', 'PRON')  ('nga', 'DET')  ('iloy', 'NOUN')  ('.', '.')
+('Ang', 'DET')  ('manghud', 'NOUN')  ('amo', 'PRON')  ('ang', 'DET')  ('nahigugmaan', 'NOUN')  ('gid', 'PRT')  ('sang', 'DET')  ('iya', 'PRON')  ('amay', 'NOUN')  ('.', '.')
+('Nagkupus', 'VERB')  ('na', 'ADP')  ('ang', 'DET')  ('hubag', 'ADJ')  ('mo', 'PRON')  ('?', '.')

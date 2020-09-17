@@ -1,0 +1,413 @@
+Gin/DET prenda/VERB ko/PRON ang/DET "/. I/PRON love/VERB you/PRON "/. mo/PRON kaso/CONJ wala/ADJ gin/DET baton/VERB ka/DET palawan/NOUN pawnshop/NOUN kay/CONJ peke/ADJ kuno/ADP
+Gin/DET prenda/VERB ko/PRON ang/DET "/. I/PRON love/VERB you/PRON "/. mo/PRON kaso/CONJ wala/ADJ gin/DET baton/VERB ka/DET palawan/NOUN pawnshop/NOUN kay/CONJ peke/ADJ kuno/ADP
+Tani/ADV may/ADP utan/NOUN man/PRT nga/DET pampataas/VERB ilong/NOUN indi/ADV nga/DET puro/ADJ na/ADP lang/ADV pampatin-aw/VERB mata/NOUN kag/CONJ pampakinis/VERB tsura/NOUN
+Tani/ADV may/ADP utan/NOUN man/PRT nga/DET pampataas/VERB ilong/NOUN indi/ADV nga/DET puro/ADJ na/ADP lang/ADV pampatin-aw/VERB mata/NOUN kag/CONJ pampakinis/VERB tsura/NOUN
+Dal-on/VERB ko/PRON tanan/ADJ ang/DET gusto/VERB mo/PRON ipadala/VERB
+Dal-on/VERB ko/PRON tanan/ADJ ang/DET gusto/VERB mo/PRON ipadala/VERB
+Bisan/ADV daw/ADP indi/ADV ko/PRON na/ADP kaya/VERB sige/ADV lang/ADV
+Bisan/ADV daw/ADP indi/ADV ko/PRON na/ADP kaya/VERB sige/ADV lang/ADV
+Tapos/DET kung/CONJ indi/ADV ka/PRON na/ADP sa/DET akon/PRON ihal-id/VERB lang/ADV ko/PRON da/PRON bisan/ADJ diin/PRON ah/UH
+Tapos/DET kung/CONJ indi/ADV ka/PRON na/ADP sa/DET akon/PRON ihal-id/VERB lang/ADV ko/PRON da/PRON bisan/ADJ diin/PRON ah/UH
+Amo/PRON lang/ADJ gid/PRT man/PRT na/ADP guro/ADV purpose/NOUN ko/PRON
+Amo/PRON lang/ADJ gid/PRT man/PRT na/ADP guro/ADV purpose/NOUN ko/PRON
+Kamusta/ADV ka/PRON ?/.
+Maayo/ADJ man/PRT ,/. salamat/NOUN
+Ano/PRON imo/PRON ngalan/NOUN
+Ano/PRON ngalan/NOUN mo/PRON
+Di-in/ADV ka/PRON halin/ADP
+Halin/ADP ko/PRON sa/DET bulan/NOUN
+Nalipay/VERB ako/PRON makilala/VERB ka/PRON
+Ma-ayong/ADJ aga/NOUN
+Maayong/ADJ aga/NOUN
+Ma-ayong/ADJ hapon/NOUN
+Maayong/ADJ hapon/NOUN
+Ma-ayong/ADJ gab-i/NOUN
+Maayong/ADJ gabi/NOUN
+Tulog/VERB na/ADV ta/PRON
+Hindi/ADV ko/PRON maintindian/VERB
+Palihug/ADV hinaya/VERB ang/DET pag-hambal/NOUN
+Makahambal/VERB ka/PRON sang/ADV Ingles/NOUN
+Makahambal/VERB ka/PRON sang/ADV Illongo/NOUN
+Diin/ADV ang/DET kasilyas/NOUN
+Diin/ADV ang/DET banyo/NOUN
+Pabay-i/VERB ko/PRON
+Indi/ADV ko/PRON pagsumbaga/VERB
+Tawgun/VERB ko/PRON ang/DET pulis/NOUN
+Untat/VERB ,/. manyak/NOUN
+Kinahanglan/VERB ko/PRON ang/DET bulig/VERB mo/PRON
+Nadula/VERB ako/PRON
+Nadula/VERB ko/PRON ang/DET wallet/NOUN ko/PRON
+Ga-masakit/ADJ ako/PRON
+Napilasan/ADJ ako/PRON
+Kinahanglan/VERB ko/PRON sang/DET doctor/NOUN
+Naigo/VERB ang/DET akon/PRON wala/NOUN
+Kamusta/ADV ka/PRON
+Maayo/ADJ man/PRT ,/. salamat/NOUN
+Ano/PRON imo/PRON ngalan/NOUN
+Ano/PRON ngalan/NOUN mo/PRON
+Di-in/ADV ka/PRON halin/ADP
+Halin/ADP ko/PRON sa/DET bulan/NOUN
+Nalipay/VERB ako/PRON makilala/VERB ka/PRON
+Ma-ayong/ADJ aga/NOUN
+Maayong/ADJ aga/NOUN
+Ma-ayong/ADJ hapon/NOUN
+Maayong/ADJ hapon/NOUN
+Ma-ayong/ADJ gab-i/NOUN
+Maayong/ADJ gabi/NOUN
+Tulog/VERB na/ADV ta/PRON
+Hindi/ADV ko/PRON maintindian/VERB
+Palihug/ADV hinaya/VERB ang/DET pag-hambal/NOUN
+Makahambal/VERB ka/PRON sang/ADV Ingles/NOUN
+Makahambal/VERB ka/PRON sang/ADV Illongo/NOUN
+Diin/ADV ang/DET kasilyas/NOUN
+Diin/ADV ang/DET banyo/NOUN
+Pabay-i/VERB ko/PRON
+Indi/ADV ko/PRON pagsumbaga/VERB
+Tawgun/VERB ko/PRON ang/DET pulis/NOUN
+Untat/VERB ,/. manyak/NOUN
+Kinahanglan/VERB ko/PRON ang/DET bulig/VERB mo/PRON
+Nadula/VERB ako/PRON
+Nadula/VERB ko/PRON ang/DET wallet/NOUN ko/PRON
+Ga-masakit/ADJ ako/PRON
+Napilasan/ADJ ako/PRON
+Kinahanglan/VERB ko/PRON sang/DET doctor/NOUN
+Naigo/VERB ang/DET akon/PRON wala/NOUN
+Gin/DET prenda/VERB ko/PRON ang/DET "/. I/PRON love/VERB you/PRON "/. mo/PRON kaso/CONJ wala/ADJ gin/DET baton/VERB ka/DET palawan/NOUN pawnshop/NOUN kay/CONJ peke/ADJ kuno/ADP
+Gin/DET prenda/VERB ko/PRON ang/DET "/. I/PRON love/VERB you/PRON "/. mo/PRON kaso/CONJ wala/ADJ gin/DET baton/VERB ka/DET palawan/NOUN pawnshop/NOUN kay/CONJ peke/ADJ kuno/ADP
+Tani/ADV may/ADP utan/NOUN man/PRT nga/DET pampataas/VERB ilong/NOUN indi/ADV nga/DET puro/ADJ na/ADP lang/ADV pampatin-aw/VERB mata/NOUN kag/CONJ pampakinis/VERB tsura/NOUN
+Tani/ADV may/ADP utan/NOUN man/PRT nga/DET pampataas/VERB ilong/NOUN indi/ADV nga/DET puro/ADJ na/ADP lang/ADV pampatin-aw/VERB mata/NOUN kag/CONJ pampakinis/VERB tsura/NOUN
+Dal-on/VERB ko/PRON tanan/ADJ ang/DET gusto/VERB mo/PRON ipadala/VERB
+Dal-on/VERB ko/PRON tanan/ADJ ang/DET gusto/VERB mo/PRON ipadala/VERB
+Bisan/ADV daw/ADP indi/ADV ko/PRON na/ADP kaya/VERB sige/ADV lang/ADV
+Bisan/ADV daw/ADP indi/ADV ko/PRON na/ADP kaya/VERB sige/ADV lang/ADV
+Tapos/DET kung/CONJ indi/ADV ka/PRON na/ADP sa/DET akon/PRON ihal-id/VERB lang/ADV ko/PRON da/PRON bisan/ADJ diin/PRON ah/UH
+Tapos/DET kung/CONJ indi/ADV ka/PRON na/ADP sa/DET akon/PRON ihal-id/VERB lang/ADV ko/PRON da/PRON bisan/ADJ diin/PRON ah/UH
+Amo/PRON lang/ADJ gid/PRT man/PRT na/ADP guro/ADV purpose/NOUN ko/PRON
+Amo/PRON lang/ADJ gid/PRT man/PRT na/ADP guro/ADV purpose/NOUN ko/PRON
+Ano/PRON ang/DET ginhambal/VERB mo/PRON
+Ano/PRON ang/DET ginhambal/VERB mo/PRON
+Palihog/ADV hinay-hinay/ADV
+Palihog/ADV hinay-hinay/ADV
+Palihug/ADV hinay-hinay/ADV
+Palihug/ADV hinay-hinay/ADV
+Kabalo/VERB ka/PRON mag/DET ilonggo/NOUN ?/.
+Kabalo/VERB ka/PRON mag/DET ilonggo/NOUN ?/.
+Ano/PRON ang/DET rice/NOUN sa/DET ilonggo/NOUN
+Ano/PRON ang/DET rice/NOUN sa/DET ilonggo/NOUN
+Wala/ADV ko/PRON kabalo/VERB
+Wala/ADV ko/PRON kabalo/VERB
+Pwedi/VERB makapamangkot/VERB
+Puwede/VERB makapamangkot/VERB
+Pwede/VERB makapamangkot/VERB
+Pwedi/VERB makapamangkot/VERB
+Puwede/VERB makapamangkot/VERB
+Pwede/VERB makapamangkot/VERB
+Palihog/ADV kuha/VERB para/ADP sa/DET akon/PRON
+Palihog/ADV kuha/VERB para/ADP sa/DET akon/PRON
+Mas/ADV gusto/VERB ko/PRON ang/DET coke/NOUN kaysa/CONJ sa/DET pepsi/NOUN
+Mas/ADV gusto/VERB ko/PRON ang/DET coke/NOUN kaysa/CONJ sa/DET pepsi/NOUN
+Sa/DET diin/ADV ang/DET party/NOUN
+Sa/DET diin/ADV ang/DET party/NOUN
+Malayo/ADV halin/ADP diri/ADV
+Malayo/ADV halin/ADP diri/ADV
+Pila/ADV ka/PRON na/ADP ka/PRON tuig/NOUN
+Pila/ADV ka/PRON na/ADP ka/PRON tuig/NOUN
+Pila/ADV ang/DET edad/NOUN mo/PRON
+Pila/ADV ang/DET edad/NOUN mo/PRON
+Pwede/VERB itudlo/VERB mo/PRON sa/DET akon/PRON kon/CONJ diin/ADV nga/DET lugar/NOUN
+Pwede/VERB itudlo/VERB mo/PRON sa/DET akon/PRON kon/CONJ diin/ADV nga/DET lugar/NOUN
+Diin/ADV ako/PRON manaog/VERB sang/DET bus/NOUN
+Diin/ADV ako/PRON manaog/VERB sang/DET bus/NOUN
+Pawala/VERB ka/PRON paglampas/VERB sa/DET taytay/NOUN
+Pawala/VERB ka/PRON paglampas/VERB sa/DET taytay/NOUN
+Malapit/ADJ ang/DET balay/NOUN niya/PRON sa/DET tindahan/NOUN
+Malapit/ADJ ang/DET balay/NOUN niya/PRON sa/DET tindahan/NOUN
+Sa/DET atubangan/ADP sa/DET plaza/NOUN ang/DET simbahan/NOUN
+Sa/DET atubangan/ADP sa/DET plaza/NOUN ang/DET simbahan/NOUN
+Sa/DET likod/ADP sang/DET simbahan/NOUN ang/DET eskwelahan/NOUN
+Sa/DET likod/ADP sang/DET simbahan/NOUN ang/DET eskwelahan/NOUN
+Nagaplano/VERB ang/DET grupo/NOUN namon/PRON nga/DET magmiting/VERB tungod/CONJ sa/DET lindol/NOUN
+Nagaplano/VERB ang/DET grupo/NOUN namon/PRON nga/DET magmiting/VERB tungod/CONJ sa/DET lindol/NOUN
+Sino/PRON ang/DET makadto/VERB sa/DET miting/NOUN
+Sino/PRON ang/DET makadto/VERB sa/DET miting/NOUN
+Maayo/ADJ tani/ADV kon/CONJ ara/ADV ka/PRON
+Maayo/ADJ tani/ADV kon/CONJ ara/ADV ka/PRON
+Makitaay/VERB ta/PRON didto/ADP
+Makitaay/VERB ta/PRON didto/ADP
+Ginaimbitar/VERB ko/PRON ikaw/PRON sa/DET party/NOUN
+Ginaimbitar/VERB ko/PRON ikaw/PRON sa/DET party/NOUN
+Makakadto/VERB ka/PRON bala/PRT
+Makakadto/VERB ka/PRON bala/PRT
+Pasensya/VERB ka/PRON na/ADP ,/. indi/ADV ako/PRON pwede/VERB makakadto/VERB kay/CONJ madamu/ADJ ko/PRON sing/DET himuon/VERB
+Pasensya/VERB ka/PRON na/ADP ,/. indi/ADV ako/PRON pwede/VERB makakadto/VERB kay/CONJ madamu/ADJ ko/PRON sing/DET himuon/VERB
+Indi/ADV ako/PRON sigurado/ADJ makaabut/VERB
+Indi/ADV ako/PRON sigurado/ADJ makaabut/VERB
+Tan-awon/VERB ko/PRON lang/ADV sa/DET sunod/ADV
+Tan-awon/VERB ko/PRON lang/ADV sa/DET sunod/ADV
+Salamat/NOUN na/ADP lang/ADV sa/DET imo/PRON imbitasyon/NOUN
+Salamat/NOUN na/ADP lang/ADV sa/DET imo/PRON imbitasyon/NOUN
+Pasyar/VERB kamo/PRON sa/DET amon/PRON
+Pasyal/VERB kamo/PRON sa/DET amon/PRON
+Pasyar/VERB kamo/PRON sa/DET amon/PRON
+Pasyal/VERB kamo/PRON sa/DET amon/PRON
+Hapit/VERB kamo/PRON anay/PRT
+Hapit/VERB kamo/PRON anay/PRT
+Hapit/VERB kamo/PRON ,/. anay/PRT
+Hapit/VERB kamo/PRON ,/. anay/PRT
+Upod/VERB ka/PRON man/PRT sa/DET akon/PRON
+Upod/VERB ka/PRON man/PRT sa/DET akon/PRON
+Dali/ADJ kadto/VERB ta/PRON sa/DET bukid/NOUN
+Dali/ADJ kadto/VERB ta/PRON sa/DET bukid/NOUN
+Pahuway/VERB ta/PRON anay/PRT
+Pahuway/VERB ta/PRON anay/PRT
+Pahuway/VERB sila/PRON anay/PRT
+Pahuway/VERB kita/PRON anay/PRT
+Pahuway/VERB sila/PRON anay/PRT
+Pahuway/VERB kita/PRON anay/PRT
+Palihog/ADV buligi/VERB ako/PRON
+Palihog/ADV buligi/VERB ako/PRON
+Nakakaon/VERB ka/PRON na/ADP
+Nakakaon/VERB ka/PRON na/ADP
+Huo/ADV kaina/ADV pa/ADP
+Huo/ADV kaina/ADV pa/ADP
+Handa/VERB na/ADP ang/DET pagkaon/NOUN
+Handa/VERB na/ADP ang/DET pagkaon/NOUN
+Gusto/VERB ko/PRON bala/PRT ang/DET pancakes/NOUN
+Gusto/VERB ko/PRON bala/PRT ang/DET pancakes/NOUN
+Palihog/ADV duhol/VERB ang/DET cake/NOUN
+Palihog/ADV duhol/VERB ang/DET cake/NOUN
+Kuha/VERB ka/PRON pa/ADP
+Kuha/VERB ka/PRON pa/ADP
+Tapos/VERB na/ADP kami/PRON magkaon/VERB
+Tapos/VERB na/ADP kami/PRON magkaon/VERB
+Husto/ADJ na/ADP ,/. salamat/NOUN
+Husto/ADJ na/ADP ,/. salamat/NOUN
+Madugayan/VERB ba/PRT sila/PRON
+Madugayan/VERB ba/PRT sila/PRON
+Ano/PRON oras/NOUN siya/PRON mabalik/VERB
+Ano/PRON oras/NOUN siya/PRON mabalik/VERB
+Palihog/ADV siling/VERB nga/DET nagtawag/VERB si/VERB koya/NOUN
+Palihog/ADV siling/VERB nga/DET nagtawag/VERB si/VERB koya/NOUN
+San-o/CONJ mo/PRON ayhan/ADV ma/ADP shopping/NOUN
+San-o/CONJ mo/PRON ayhan/ADV ma/ADP shopping/NOUN
+Ano/PRON pamatyag/NOUN mo/PRON
+Ano/PRON pamatyag/NOUN mo/PRON
+Daw/DET hilanaton/VERB ako/PRON
+Daw/DET hilanaton/VERB ako/PRON
+Basi/ADV sa/DET dason/ADV
+Basi/ADV sa/DET dason/ADV
+Basi/ADV kon/CONJ kis-a/ADV
+Basi/ADV kon/CONJ kis-a/ADV
+Nagalupot/VERB ako/PRON
+Nagalupot/VERB ako/PRON
+Ginatugnawan/VERB ko/PRON
+Ginatugnawan/VERB ko/PRON
+Daw/DET masuka/VERB ko/PRON
+Daw/DET masuka/VERB ko/PRON
+Pirme/ADV nagahibi/VERB ang/DET bata/NOUN
+Pirme/ADV nagahibi/VERB ang/DET bata/NOUN
+Palihog/ADV uyati/VERB ang/DET bata/NOUN
+Palihog/ADV uyati/VERB ang/DET bata/NOUN
+Ipakita/VERB mo/PRON sa/DET akon/PRON
+Ipakita/VERB mo/PRON sa/DET akon/PRON
+Tumaron/VERB mo/PRON ning/ADJ tabletas/NOUN
+Tumaron/VERB mo/PRON ning/ADJ tabletas/NOUN
+Tumaron/VERB mo/PRON ni/DET kada/ADV apat/NUM ka/DET oras/NOUN
+Tumaron/VERB mo/PRON ni/DET kada/ADV apat/NUM ka/DET oras/NOUN
+Indi/ADV mo/PRON pahigko-an/VERB
+Indi/ADV mo/PRON pahigko-an/VERB
+Indi/ADV mo/PRON pakaloton/VERB
+Indi/ADV mo/PRON pakaloton/VERB
+Ginsiling/VERB ko/PRON na/ADP sa/DET imo/PRON
+Ginsiling/VERB ko/PRON na/ADP sa/DET imo/PRON
+Waay/ADJ ka/PRON labot/NOUN
+Waay/ADJ ka/PRON labot/NOUN
+Kailinit/ADJ ,/. kaulugot/ADJ
+Kailinit/ADJ ,/. kaulugot/ADJ
+Patawara/VERB ko/PRON
+Patawara/VERB ko/PRON
+Indi/ADV ko/PRON hungod/VERB
+Indi/ADV ko/PRON hungod/VERB
+Ano/PRON siling/NOUN mo/PRON
+Ano/PRON siling/NOUN mo/PRON
+Siling/VERB mo/PRON
+Siling/VERB niya/PRON
+Siling/VERB nakon/PRON
+Siling/VERB mo/PRON
+Siling/VERB niya/PRON
+Siling/VERB nakon/PRON
+Kalma/VERB lang/ADV
+Kalma/VERB lang/ADV
+Sa/DET kaluoy/NOUN sang/DET Dios/NOUN
+Sa/DET kaluoy/NOUN sang/DET Dios/NOUN
+Nalipay/VERB ako/PRON sa/DET ginhimo/VERB mo/PRON
+Nalipay/VERB ako/PRON sa/DET ginhimo/VERB mo/PRON
+Tapos/VERB ka/PRON na/ADP bala/PRT
+Tapos/VERB ka/PRON na/ADP bala/PRT
+Kilala/VERB mo/PRON bala/PRT sia/PRON
+Kilala/VERB mo/PRON bala/PRT sia/PRON
+Kilala/VERB ko/PRON sia/PRON
+Kilala/VERB ko/PRON sia/PRON
+Sang/DET nagligad/VERB nga/DET adlaw/NOUN
+Sang/DET nagligad/VERB nga/DET adlaw/NOUN
+Sa/DET dason/ADV nga/DET adlaw/NOUN
+Sa/DET dason/ADV nga/DET adlaw/NOUN
+Sang/DET isa/NUM ka/DET adlaw/NOUN
+Sang/DET isa/NUM ka/DET adlaw/NOUN
+Sang/DET isa/NUM ka/DET semana/NOUN
+Sang/DET isa/NUM ka/DET semana/NOUN
+Madamo/ADJ nga/DET beses/NOUN
+Madamo/ADJ nga/DET beses/NOUN
+Sa/DET pila/ADJ ka/PRON adlaw/NOUN
+Sa/DET pila/ADJ ka/PRON adlaw/NOUN
+Kaina/ADJ sang/DET aga/NOUN
+Kaina/ADJ sang/DET aga/NOUN
+Karon/ADJ sa/DET gabi/NOUN
+Karon/ADJ sa/DET gabi/NOUN
+Sang/DET isa/NUM ka/PRON tuig/NOUN
+Sang/DET isa/NUM ka/PRON tuig/NOUN
+Sang/DET ligad/ADJ sang/DET tuig/NOUN
+Sang/DET ligad/ADJ sang/DET tuig/NOUN
+Sa/DET sunod/ADJ nga/DET tuig/NOUN
+Sa/DET sunod/ADJ nga/DET tuig/NOUN
+Kahapon/ADV sang/DET hapon/NOUN
+Kahapon/ADV sang/DET hapon/NOUN
+Kahapon/ADV sa/DET hapon/NOUN
+Kahapon/ADV sa/DET hapon/NOUN
+Dugay/ADJ ka/PRON na/ADP diri/ADV
+Dugay/ADJ ka/PRON na/ADP diri/ADV
+Huo/ADV kahibalo/VERB ko/PRON mag-ilonggo/VERB
+Huo/ADV kahibalo/VERB ko/PRON mag-ilonggo/VERB
+Bal-an/VERB mo/PRON kung/CONJ ano/PRON ang/DET bulong/NOUN sa/DET punggod/NOUN
+Bal-an/VERB mo/PRON kung/CONJ ano/PRON ang/DET bulong/NOUN sa/DET punggod/NOUN
+May/DET kadtoan/VERB ako/PRON ini/PRON nga/DET hapon/NOUN
+May/DET kadtoan/VERB ako/PRON ini/PRON nga/DET hapon/NOUN
+Huo/ADV nakakita/VERB ka/PRON na/ADP sang/DET amo/NOUN nga/DET may/DET punggod/NOUN
+Huo/ADV nakakita/VERB ka/PRON na/ADP sang/DET amo/NOUN nga/DET may/DET punggod/NOUN
+Indi/ADV man/PRT na/ADP kaladlawan/NOUN
+Indi/ADV man/PRT na/ADP kaladlawan/NOUN
+Naintindihan/VERB ko/PRON ang/DET iban/ADJ
+Naintindihan/VERB ko/PRON ang/DET iban/ADJ
+Ginahiwa/VERB ini/PRON
+Ginahiwa/VERB ini/PRON
+Tilawan/VERB mo/PRON ini/PRON
+Tilawan/VERB mo/PRON ini/PRON
+Indi/ADV na/ADP ko/PRON
+Indi/ADV na/ADP ko/PRON
+Diutay/ADJ lang/PRT ang/DET ginakuha/VERB mo/PRON
+Diutay/ADJ lang/PRT ang/DET ginakuha/VERB mo/PRON
+Ano/PRON ang/DET gusto/VERB mo/PRON nga/DET kaonon/VERB
+Ano/PRON ang/DET gusto/VERB mo/PRON nga/DET kaonon/VERB
+Ano/PRON ang/DET ginagamit/VERB mo/PRON diri/ADV
+Ano/PRON ang/DET ginagamit/VERB mo/PRON diri/ADV
+Diin/ADV bala/PRT pwede/VERB makabakal/VERB sang/DET candy/NOUN
+Diin/ADV bala/PRT pwede/VERB makabakal/VERB sang/DET candy/NOUN
+Maayo/ADJ man/PRT kay/CONJ ginpatulog/VERB mo/PRON ako/PRON temprano/ADV kagab-i/NOUN
+Maayo/ADJ man/PRT kay/CONJ ginpatulog/VERB mo/PRON ako/PRON temprano/ADV kagab-i/NOUN
+Tam-is/ADJ ba/PRT
+Tam-is/ADJ ba/PRT
+Grabe/ADJ gid/PRT halakhak/VERB ko/PRON
+Ikaw/PRON pa/ADP
+Ikaw/PRON pa/ADP
+Ti/CONJ ayos/ADJ gid/PRT eh/PRT nalipay/VERB man/PRT ako/PRON
+Ti/CONJ ayos/ADJ gid/PRT eh/PRT nalipay/VERB man/PRT ako/PRON
+Kag/CONJ ikaw/PRON man/PRT nagapayuhum/VERB man/PRT sa/DET akon/PRON
+Kag/CONJ ikaw/PRON man/PRT nagapayuhum/VERB man/PRT sa/DET akon/PRON
+Nagapahibi/VERB sa/DET akon/PRON si/VERB UwU/NOUN
+Nagapahibi/VERB sa/DET akon/PRON si/VERB UwU/NOUN
+Pareho/VERB ta/PRON
+Ay/UH kasabad/VERB ah/UH
+Maayo/ADJ kay/CONJ nalipay/VERB ka/PRON sa/DET akon/PRON sabat/NOUN
+Pareho/VERB ta/PRON
+Ay/UH kasabad/VERB ah/UH
+Maayo/ADJ kay/CONJ nalipay/VERB ka/PRON sa/DET akon/PRON sabat/NOUN
+Sakto/ADV ka/PRON gid/PRT
+Sakto/ADV ka/PRON gid/PRT
+Dungol/ADJ ka/PRON gid/PRT
+Dungol/ADJ ka/PRON gid/PRT
+Bugtaw/ADJ ka/PRON pa/ADP
+Bugtaw/ADJ ka/PRON pa/ADP
+Tulog/VERB na/ADV ta/PRON
+Tulo/VERB luha/NOUN ko/PRON
+Indi/ADV ka/PRON pwede/VERB lagaw/VERB
+Indi/ADV ka/PRON pwede/VERB lagaw/VERB
+Dali/ADJ lang/ADV
+Dali/ADJ lang/ADV
+Sa/DET diin/PRON ka/PRON subong/ADV
+Sa/DET diin/PRON ka/PRON subong/ADV
+Diin/ADV ka/PRON nag/VERB halin/VERB
+Diin/ADV ka/PRON nag/VERB halin/VERB
+Gusto/VERB mo/PRON ba/PRT ko/PRON
+Gusto/VERB mo/PRON ba/PRT ko/PRON
+Ari/ADJ ko/PRON di/PRON subong/ADV
+Ari/ADJ ko/PRON di/PRON subong/ADV
+Malakat/VERB na/ADP ko/PRON pauli/VERB sa/DET balay/NOUN
+Malakat/VERB na/ADP ko/PRON pauli/VERB sa/DET balay/NOUN
+Ay/UH tuod/ADJ
+Ay/UH tuod/ADJ
+Pwede/VERB na/ADP
+Pwede/VERB na/ADP
+Ano/PRON pa/ADP gid/PRT
+Ano/PRON pa/ADP gid/PRT
+Dugay/ADJ pa/ADP
+Dugay/ADJ pa/ADP
+Buot/ADV kung/CONJ nakatulog/VERB
+Buot/ADV kung/CONJ nakatulog/VERB
+Kauloumol/ADJ !/. kusion/VERB ta/PRON gid/PRT ka/PRON
+Kauloumol/ADJ !/. kusion/VERB ta/PRON gid/PRT ka/PRON
+Nagpiyong/VERB ko/PRON gamay/ADJ
+Nagpiyong/VERB ko/PRON gamay/ADJ
+Ano/PRON ang/DET ginaobra/VERB mo/PRON
+Ano/PRON ang/DET ginaobra/VERB mo/PRON
+Ano/PRON ang/DET ginaluto/VERB mo/PRON
+Ano/PRON ang/DET ginaluto/VERB mo/PRON
+Para/ADP sa/DET akon/PRON waay/ADJ na/ADP gid/PRT iban/ADJ ikaw/PRON lang/ADV
+Para/ADP sa/DET akon/PRON waay/ADJ na/ADP gid/PRT iban/ADJ ikaw/PRON lang/ADV
+Kahamot/ADJ sa/DET imo/PRON subong/ADV
+Kahamot/ADJ sa/DET imo/PRON subong/ADV
+Angayan/ADJ ka/PRON gid/PRT sa/DET bayo/NOUN mo/PRON
+Angayan/ADJ ka/PRON gid/PRT sa/DET bayo/NOUN mo/PRON
+Halong/VERB ka/PRON gid/PRT pirme/ADV ha/PRT
+Halong/VERB ka/PRON gid/PRT pirme/ADV ha/PRT
+Kadugay/ADJ gid/PRT mag/DET agi/VERB sang/DET adlaw/NOUN kun/CONJ indi/ADV ta/PRON ka/PRON makita/VERB
+Kadugay/ADJ gid/PRT mag/DET agi/VERB sang/DET adlaw/NOUN kun/CONJ indi/ADV ta/PRON ka/PRON makita/VERB
+Ihatag/VERB ko/PRON ang/DET tanan/PRON para/ADP lang/ADV malipay/VERB ka/PRON
+Ihatag/VERB ko/PRON ang/DET tanan/PRON para/ADP lang/ADV malipay/VERB ka/PRON
+Paano/ADV na/ADP ko/PRON kon/CONJ wala/ADJ ka/PRON
+Paano/ADV na/ADP ko/PRON kon/CONJ wala/ADJ ka/PRON
+Pagusto/VERB ka/PRON lang/ADV
+Pagusto/VERB ka/PRON lang/ADV
+Indi/ADV mo/PRON ko/PRON mainto/VERB
+Indi/ADV mo/PRON ko/PRON mainto/VERB
+Sadya/ADJ ko/PRON para/ADP sa/DET imo/PRON
+Sadya/ADJ ko/PRON para/ADP sa/DET imo/PRON
+Hambala/VERB lang/ADV ko/PRON kon/CONJ tapos/VERB ka/PRON na/ADP
+Hambala/VERB lang/ADV ko/PRON kon/CONJ tapos/VERB ka/PRON na/ADP
+Bahala/VERB ka/PRON sa/DET buhay/NOUN mo/PRON
+Bahala/VERB ka/PRON sa/DET buhay/NOUN mo/PRON
+Indi/ADV ko/PRON nalawayan/VERB mo/PRON na/ADP
+Indi/ADV ko/PRON nalawayan/VERB mo/PRON na/ADP
+Ginahigugma/VERB taka/PRON indi/ADV taka/PRON pagkagusto/VERB sakitan/VERB
+Ginahigugma/VERB taka/PRON indi/ADV taka/PRON pagkagusto/VERB sakitan/VERB
+Naghuni/VERB ang/DET puertahan/NOUN
+Naghuni/VERB ang/DET puertahan/NOUN
+Ginainit/VERB ko/PRON ang/DET sabaw/NOUN
+Ginainit/VERB ko/PRON ang/DET sabaw/NOUN
+Palangga/VERB ta/PRON man/PRT ka/PRON kaayo/ADV
+Palangga/VERB ta/PRON man/PRT ka/PRON kaayo/ADV
+Mabati-an/VERB mo/PRON na/ADP ako/PRON subong/ADV
+Mabati-an/VERB mo/PRON na/ADP ako/PRON subong/ADV
+Magpakaubos/VERB ako/PRON sa/DET imong/DET kaalam/NOUN
+Magpakaubos/VERB ako/PRON sa/DET imong/DET kaalam/NOUN
+Maayo/ADJ na/ADP imo/PRON magdala/VERB
+Maayo/ADJ na/ADP imo/PRON magdala/VERB
+Mauna/VERB lang/ADV ko/PRON
+Mauna/VERB lang/ADV ko/PRON
+Ah/UH maayo/ADJ gid/PRT eh/PRT
+Ah/UH maayo/ADJ gid/PRT eh/PRT		
+Unsa/ADV na/PRT
+Unsa/ADV na/PRT
+Halin/VERB ka/PRON diri/ADV ./.
+Halin/VERB ka/PRON diri/ADV ./.
+Wala/ADV nawala/VERB akon/PRON wala/NOUN ./.
+Wala/ADV nawala/VERB akon/PRON wala/NOUN ./.
