@@ -20,3 +20,29 @@ Dita, S. N., Roxas, R. E. O., &amp; Inventado, P. (2008).
 Petrov, S., Das, D., &amp; McDonald, R. (2011). A universal
   part-of-speech tagset. arXiv preprint
   arXiv:1104.2086.
+
+#### People Involved:
+Mohammad Rafiel B. Abdulsalam, 
+Kenneth T. dela Cuadra, 
+Allen Adrian B. Solis,
+Jimmy E. Unilongo Jr. and 
+Ruemar L. Delima
+
+Philippine Science High School – SOCCSKSARGEN Region Campus, Brgy. Paraiso, Koronadal,
+
+9506, Philippines
+
+Corresponding Author Email: jeunilongo@src.pshs.edu.ph
+
+####Acknowledgment
+The researchers would like to express their
+utmost gratitude to Mr. Jimmy Unilongo Jr.,
+Ms. Sheena Dawn Ferraren, and Mr. Loufel
+Camoro for their sharing significant and
+constructive suggestions during the
+development of this research work. Their
+enthusiasm for giving their valuable
+knowledge to aide us has been very much
+appreciated. Also, the researchers would like
+to thank Nathaniel Oco and Shirley Dita for
+permitting us to use the Hiligaynon corpus.
