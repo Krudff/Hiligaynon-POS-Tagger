@@ -22,11 +22,11 @@ Petrov, S., Das, D., &amp; McDonald, R. (2011). A universal
   arXiv:1104.2086.
 
 #### People Involved:
--Mohammad Rafiel B. Abdulsalam
--Kenneth T. dela Cuadra,
--Allen Adrian B. Solis
--Jimmy E. Unilongo Jr.
--Ruemar L. Delima
+Mohammad Rafiel B. Abdulsalam
+Kenneth T. dela Cuadra,
+Allen Adrian B. Solis
+Jimmy E. Unilongo Jr.
+Ruemar L. Delima
 
 Corresponding Author Email: jeunilongo@src.pshs.edu.ph
 
