@@ -21,14 +21,6 @@ Petrov, S., Das, D., &amp; McDonald, R. (2011). A universal
   part-of-speech tagset. arXiv preprint
   arXiv:1104.2086.
 
-#### People Involved:
-Mohammad Rafiel B. Abdulsalam
-Kenneth T. dela Cuadra,
-Allen Adrian B. Solis
-Jimmy E. Unilongo Jr.
-Ruemar L. Delima
-
-Corresponding Author Email: jeunilongo@src.pshs.edu.ph
 
 #### Acknowledgment
 The researchers would like to express their
